@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023492</site_id>
+  <password>usmn0001</password>
+  <ticket_request>
+    <online_identifier>3469184265</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/26/2014</ready_date>
+    <ready_time>11:15:00</ready_time>
+    <subtotal>23.72</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>5.00</gratuity>
+    <sales_tax id="1">1.66</sales_tax>
+    <total>30.38</total>
+    <notes>Samir Kumar Verma,,874587458,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="4" type="Regular" quantity="1" name="Bambu Cheese Puffs  ">
+      <size id="13" name="6PC" amount="5.99"/>
+      <kitchen_msg message="test"/>
+    </ticket_item>
+    <ticket_item id="343" type="Regular" quantity="1" name="Seafood Hot Pot">
+      <size id="1" name="" amount="14.99"/>
+      <kitchen_msg message="test"/>
+      <modifier id="84" name="Sub Brown Rice" amount="0.75"/>
+    </ticket_item>
+    <ticket_item id="3" type="Regular" quantity="1" name="Vietnamese Crispy Egg Roll">
+      <size id="2" name="1PC" amount="1.99"/>
+      <kitchen_msg message="test"/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="30.38"/>
+  <customer>
+    <first_name>Samir Kumar</first_name>
+    <last_name>Verma</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>Rajasthan</state>
+    <postal>20125</postal>
+    <phone>874587458</phone>
+    <email>samir@yahoo.com</email>
+    <this_contact>874587458</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

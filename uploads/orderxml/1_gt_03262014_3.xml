@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023492</site_id>
+  <password>usmn0001</password>
+  <ticket_request>
+    <online_identifier>4460121899</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/27/2014</ready_date>
+    <ready_time>11:15:00</ready_time>
+    <subtotal>13.96</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>1.00</gratuity>
+    <sales_tax id="1">0.93</sales_tax>
+    <total>15.19</total>
+    <notes>Sandeep Kumar Kuldeep,,1234567894,test order</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="160" type="Regular" quantity="1" name="Broccoli &amp; Stir Fry">
+      <size id="1" name="" amount="6"/>
+      <kitchen_msg message="test"/>
+      <modifier id="164" name="Vietnamese Crispy Eggroll" amount="1.99"/>
+      <modifier id="176" name="Sub Fried Rice" amount="0.99"/>
+      <modifier id="171" name="Sub Beef" amount="1.99"/>
+      <modifier id="96" name="Hot" amount="2.99"/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="15.19"/>
+  <customer>
+    <first_name>Sandeep Kumar</first_name>
+    <last_name>Kuldeep</last_name>
+    <addr>Boise, ID, United States</addr>
+    <city>Jaipur</city>
+    <state>Rajasthan</state>
+    <postal>30201</postal>
+    <phone>1234567894</phone>
+    <email>sandeep.kuldeep.jpr1@gmail.com</email>
+    <this_contact>1234567894</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

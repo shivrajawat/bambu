@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023492</site_id>
+  <password>usmn0001</password>
+  <ticket_request>
+    <online_identifier>2181965621</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/25/2014</ready_date>
+    <ready_time>11:15:00</ready_time>
+    <subtotal>47.16</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">3.30</sales_tax>
+    <total>50.46</total>
+    <notes>Sandeep Kumar Kuldeep,,1234567894,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="1" type="Regular" quantity="1" name="Bambu Sampler Platter">
+      <size id="1" name="" amount="15.99"/>
+      <kitchen_msg message=""/>
+    </ticket_item>
+    <ticket_item id="3" type="Regular" quantity="1" name="Vietnamese Crispy Egg Roll">
+      <size id="3" name="3PC" amount="5.25"/>
+      <kitchen_msg message="test"/>
+      <modifier id="12" name="Tofu" amount="0.00"/>
+    </ticket_item>
+    <ticket_item id="57" type="Regular" quantity="1" name="Yellow Curry">
+      <size id="8" name="Full" amount="8.99"/>
+      <kitchen_msg message="test"/>
+      <modifier id="86" name="Add Chicken" amount="1.99"/>
+      <modifier id="89" name="Add Mock Duck" amount="1.99"/>
+      <modifier id="87" name="Add Pork" amount="1.99"/>
+      <modifier id="88" name="Add Tofu" amount="1.99"/>
+      <modifier id="90" name="Add Beef" amount="2.99"/>
+      <modifier id="93" name="Add Scallop" amount="3.99"/>
+      <modifier id="85" name="Sub Fried Rice" amount="1.99"/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="50.46"/>
+  <customer>
+    <first_name>Sandeep Kumar</first_name>
+    <last_name>Kuldeep</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>Rajasthan</state>
+    <postal>30201</postal>
+    <phone>1234567894</phone>
+    <email>sandeep.kuldeep.jpr1@gmail.com</email>
+    <this_contact>1234567894</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>
